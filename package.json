@@ -1,0 +1,27 @@
+{
+  "name": "uniqid",
+  "version": "1.0.0",
+  "description": "Unique Random ID Generator",
+  "homepage": "http://github.com/fijiwebdesign/uniqid",
+  "keywords": [
+    "unique id",
+    "uniqid",
+    "unique identifier",
+    "hexatridecimal"
+  ],
+  "bugs": {
+    "url": "http://github.com/fijiwebdesign/uniqid/issues",
+    "email": "gabe@fijiwebdesign.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fijiwebdesign/uniqid.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Gabe Lalasava",
+    "email": "gabe@fijiwebdesign.com",
+    "url": "http://fijiwebdesign.com/"
+  },
+  "main": "index.js"
+}
